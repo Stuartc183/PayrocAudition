@@ -12,7 +12,7 @@ I have created an API to handle the backend of this task.
 The back end will take the url and generate a 6 digit alpha numeric code, which gets stored along with the url.
 The url can then be retreieved using this code as a querystring parameter.
 
-I have not completed the ui side of the task yet.  I will comtinue to do so purely as an excercise, as it has been some considerable time
+I have not completed the ui side of the task yet.  I will continue to do so purely as an excercise, as it has been some considerable time
 since I have done any ui work and definitely need to take a refresher.
 
 The code that I have completed runs and displays a swagger document to interact with.
